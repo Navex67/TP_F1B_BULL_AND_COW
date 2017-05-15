@@ -1,0 +1,10 @@
+voiture
+avion
+dague
+clavier
+fusil
+casque
+cahier
+stylo
+cocaine
+drogue
